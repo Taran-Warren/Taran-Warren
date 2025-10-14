@@ -3,7 +3,7 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Twenty, a minimal, multi-page responsive site template for HTML5 UP.
+Welcome, To my Portfolio.
 
 As the name implies, this is my twentieth (!) design for HTML5 UP. Since the last
 few have been single page affairs, I decided to go with something a bit more conventional
@@ -39,4 +39,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
+
 		Responsive Tools (github.com/ajlkn/responsive-tools)
